@@ -1,0 +1,1058 @@
+﻿Log file open, 06/03/19 10:44:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Shoot
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-315606610) SRandInit(-315606610).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.302855
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.03-01.44.20:209][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-01.44.20:209][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.03-01.44.20:284][  0]LogInit: Computer: 4105-10
+[2019.06.03-01.44.20:284][  0]LogInit: User: s2014112564
+[2019.06.03-01.44.20:284][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.03-01.44.20:284][  0]LogInit: High frequency timer resolution =3.410087 MHz
+[2019.06.03-01.44.20:285][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.06.03-01.44.20:285][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.03-01.44.20:285][  0]LogMemory: Process Physical Memory: 274.61 MB used, 274.61 MB peak
+[2019.06.03-01.44.20:285][  0]LogMemory: Process Virtual Memory: 277.37 MB used, 277.37 MB peak
+[2019.06.03-01.44.20:285][  0]LogMemory: Physical Memory: 4976.60 MB used,  3115.34 MB free, 8091.94 MB total
+[2019.06.03-01.44.20:285][  0]LogMemory: Virtual Memory: 635.70 MB used,  3115.34 MB free, 8388608.00 MB total
+[2019.06.03-01.44.20:454][  0]LogInit: Using OS detected language (ko-KR).
+[2019.06.03-01.44.20:454][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.06.03-01.44.20:458][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.06.03-01.44.20:617][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.06.03-01.44.20:617][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.06.03-01.44.20:617][  0]LogInit: Setting process to DPI aware
+[2019.06.03-01.44.20:624][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.06.03-01.44.20:624][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.06.03-01.44.20:624][  0]LogInit: Setting process to DPI aware
+[2019.06.03-01.44.20:927][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.03-01.44.20:954][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.06.03-01.44.20:954][  0]LogD3D11RHI:       1960/0/3789 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.03-01.44.20:962][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.06.03-01.44.20:962][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.03-01.44.20:962][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.03-01.44.20:968][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.03-01.44.20:968][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.03-01.44.20:968][  0]LogWindows: EnumDisplayDevices:
+[2019.06.03-01.44.20:968][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.06.03-01.44.20:969][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    7. 'RDPDD Chained DD' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    8. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows:    9. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.06.03-01.44.20:969][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.03-01.44.20:969][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.06.03-01.44.20:969][  0]LogD3D11RHI:   Driver Version: 398.75 (internal:24.21.13.9875, unified:398.75)
+[2019.06.03-01.44.20:969][  0]LogD3D11RHI:      Driver Date: 7-24-2018
+[2019.06.03-01.44.20:969][  0]LogRHI: Texture pool is 1372 MB (70% of 1960 MB)
+[2019.06.03-01.44.20:981][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.03-01.44.20:996][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.03-01.44.21:045][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Intermediate/Shaders/WorkingDirectory/4668/).
+[2019.06.03-01.44.21:046][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TEMP.A.000/AppData/Local/Temp/UnrealShaderWorkingDir/BBB0C3134D6F1B6F025CFCA070479464/'.
+[2019.06.03-01.44.21:046][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.03-01.44.21:917][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.03-01.44.21:978][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.03-01.44.22:038][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.03-01.44.22:100][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.03-01.44.22:161][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.03-01.44.22:224][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.03-01.44.22:285][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.03-01.44.22:346][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.03-01.44.22:397][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.03-01.44.22:458][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.06.03-01.44.22:520][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.06.03-01.44.22:584][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.06.03-01.44.22:644][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.06.03-01.44.22:705][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.06.03-01.44.22:827][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.06.03-01.44.22:827][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.06.03-01.44.22:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.03-01.44.22:930][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.03-01.44.23:026][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.03-01.44.23:057][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.03-01.44.23:117][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.03-01.44.23:178][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.03-01.44.23:239][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.03-01.44.23:301][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.03-01.44.23:301][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.03-01.44.23:752][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.03-01.44.23:840][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/TEMP.A.000/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.06.03-01.44.23:840][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TEMP.A.000/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.06.03-01.44.23:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.03-01.44.23:841][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.03-01.44.23:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.03-01.44.23:842][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.03-01.44.23:859][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.03-01.44.23:870][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TEMP.A.000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.03-01.44.23:880][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.03-01.44.23:880][  0]LogSlate: Using Freetype 2.6.0
+[2019.06.03-01.44.23:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.03-01.44.23:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.03-01.44.24:447][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-01.44.24:822][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.03-01.44.24:868][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.03-01.44.24:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.03-01.44.24:868][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.03-01.44.24:868][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.06.03-01.44.24:868][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.06.03-01.44.24:900][  0]LogNetVersion: Shoot , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 364515715)
+[2019.06.03-01.44.25:085][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2019.06.03-01.44.27:478][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.527804 seconds
+[2019.06.03-01.44.27:489][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2019.06.03-01.44.27:489][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2019.06.03-01.44.27:489][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.03-01.44.27:553][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.06.03-01.44.30:480][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.03-01.44.30:522][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.03-01.44.30:523][  0]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.31:524][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.06.03-01.44.32:034][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.06.03-01.44.32:034][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.06.03-01.44.32:097][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.06.03-01.44.32:158][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.06.03-01.44.33:092][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.03-01.44.33:406][  0]LogOcInput: OculusInput pre-init called
+[2019.06.03-01.44.33:723][  0]LogEngine: Initializing Engine...
+[2019.06.03-01.44.33:725][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.03-01.44.33:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.03-01.44.33:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.03-01.44.34:092][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.03-01.44.34:103][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-01.44.34:113][  0]LogInit: FAudioDevice initialized.
+[2019.06.03-01.44.34:201][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/TEMP.A.000/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.06.03-01.44.34:220][  0]LogInit: Texture streaming: Enabled
+[2019.06.03-01.44.34:327][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.03-01.44.34:470][  0]LogInit: Transaction tracking system initialized
+[2019.06.03-01.44.34:840][  0]BlueprintLog: New page: 에디터 로드
+[2019.06.03-01.44.35:837][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.06.03-01.44.36:661][  0]LogConsoleResponse: Display: 
+[2019.06.03-01.44.36:865][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.03-01.44.36:865][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.03-01.44.36:865][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.03-01.44.38:195][  0]LogFileCache: Scanning file cache for directory '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/' took 0.30s
+[2019.06.03-01.44.38:246][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.06.03-01.44.38:246][  0]Cmd: MAP LOAD FILE="//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.03-01.44.38:284][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.03-01.44.38:374][  0]MapCheck: New page: 맵 체크
+[2019.06.03-01.44.38:374][  0]LightingResults: New page: 라이팅 빌드
+[2019.06.03-01.44.50:880][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-01.44.50:892][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.03-01.44.50:909][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.03-01.44.51:279][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 369.418ms.
+[2019.06.03-01.44.51:279][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 13.033
+[2019.06.03-01.44.51:508][  0]LogCollectionManager: Loaded 0 collections in 0.011116 seconds
+[2019.06.03-01.44.51:637][  0]LogFileCache: Scanning file cache for directory '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Collections/' took 0.02s
+[2019.06.03-01.44.51:637][  0]LogFileCache: Scanning file cache for directory '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/' took 0.01s
+[2019.06.03-01.44.51:637][  0]LogFileCache: Scanning file cache for directory '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Collections/' took 0.02s
+[2019.06.03-01.44.51:637][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.03-01.44.51:645][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2363 classes and 519 folders.
+[2019.06.03-01.44.51:710][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.03-01.44.51:766][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.03-01.44.51:814][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.03-01.44.51:841][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.03-01.44.51:845][  0]LogSlate: Took 0.003231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.06.03-01.44.51:845][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.03-01.44.51:849][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.03-01.44.51:938][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.03-01.44.51:987][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.06.03-01.44.52:233][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.03-01.44.52:233][  0]LogLoad: (Engine Initialization) Total time: 38.30 seconds
+[2019.06.03-01.44.52:233][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.03-01.44.52:233][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.06.03-01.44.52:233][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.06.03-01.44.52:269][  0]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:271][  0]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/', and we were unable to create a new request.
+[2019.06.03-01.44.52:271][  0]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:271][  0]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:271][  0]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:277][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.03-01.44.52:412][  1]LogAssetRegistry: Asset discovery search completed in 27.3489 seconds
+[2019.06.03-01.44.52:414][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.03-01.44.52:414][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.06.03-01.44.52:414][  1]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:415][  1]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Collections/', and we were unable to create a new request.
+[2019.06.03-01.44.52:415][  1]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:416][  1]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Collections/', and we were unable to create a new request.
+[2019.06.03-01.44.52:416][  1]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.06.03-01.44.52:417][  1]LogDirectoryWatcher: A directory notification failed for '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/', and we were unable to create a new request.
+[2019.06.03-01.45.08:861][285]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.06.03-01.45.16:223][924]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.03-01.45.17:141][ 14]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.06.03-01.45.17:604][ 14]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2019.06.03-01.45.18:259][ 14]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.03-01.49.31:703][946]LogSlate: Took 0.000746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.06.03-01.55.07:486][338]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.03-01.55.10:472][338]LogSavePackage: Save=3354.08ms
+[2019.06.03-01.55.10:473][338]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_Auto1F3BB3DAF49DFBCE68F2F9D838E3AEEF0.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.06.03-01.55.10:533][338]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2019.06.03-01.55.10:555][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 5.065
+[2019.06.03-01.55.10:555][338]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.065
+[2019.06.03-01.55.10:597][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Enemy/NewBlueprint] ([1] browsable assets)...
+[2019.06.03-01.55.10:675][338]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint]
+[2019.06.03-01.55.10:676][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Enemy/NewBlueprint]
+[2019.06.03-01.55.12:388][338]LogSavePackage: Save=1187.27ms
+[2019.06.03-01.55.12:388][338]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/NewBlueprint_Auto198716DC24C1E85D6361513AAB2E108A7.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPerson/Enemy/NewBlueprint_Auto1.uasset'
+[2019.06.03-01.55.12:443][338]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPerson/Enemy/NewBlueprint_Auto1.uasset
+[2019.06.03-01.55.12:443][338]LogFileHelpers: Auto-saving content packages took 1.882
+[2019.06.03-01.57.17:861][456]LogEditorTransaction: Undo 노드 이동
+[2019.06.03-01.58.59:282][960]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-01.59.52:867][200]LogSlate: Took 0.001564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.03-02.04.17:526][701]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.05.26:396][931]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.05.30:690][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.30:693][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.05.30:693][931]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:05:30)
+[2019.06.03-02.05.30:693][931]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.05.30:735][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041823s)
+[2019.06.03-02.05.30:736][931]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.05.30:736][931]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2019.06.03-02.05.30:737][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.043187s)
+[2019.06.03-02.05.30:792][931]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.05.30:803][931]LogInit: FAudioDevice initialized.
+[2019.06.03-02.05.30:864][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.05.30:870][931]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.05.30
+[2019.06.03-02.05.30:871][931]LogWorld: Bringing up level for play took: 0.005299
+[2019.06.03-02.05.31:026][931]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2019.06.03-02.05.31:029][931]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.546
+[2019.06.03-02.05.31:029][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.33:925][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.33:959][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.37:239][599]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.03-02.05.46:673][123]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.06.03-02.05.50:867][296]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.05.51:182][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.51:185][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.05.51:185][296]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:05:51)
+[2019.06.03-02.05.51:186][296]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.05.51:251][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065128s)
+[2019.06.03-02.05.51:252][296]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.05.51:252][296]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2019.06.03-02.05.51:253][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.067208s)
+[2019.06.03-02.05.51:310][296]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.05.51:318][296]LogInit: FAudioDevice initialized.
+[2019.06.03-02.05.51:358][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.05.51:368][296]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.05.51
+[2019.06.03-02.05.51:370][296]LogWorld: Bringing up level for play took: 0.010594
+[2019.06.03-02.05.51:376][296]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.198
+[2019.06.03-02.05.51:377][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.53:534][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.53:568][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.05.54:775][668]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.03-02.05.57:324][841]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.03-02.06.09:369][135]LogSavePackage: Save=6109.94ms
+[2019.06.03-02.06.09:369][135]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap23E6548F474B2BD260D9999F04135D55.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.03-02.06.09:472][135]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.03-02.06.30:423][135]LogSavePackage: Save=15289.06ms
+[2019.06.03-02.06.30:423][135]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_BuiltData77A3F6EF4BF241E07F289188C47644D4.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.06.03-02.06.30:458][135]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.06.03-02.06.36:248][624]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.06.36:994][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.06.36:996][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.06.36:996][624]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:06:36)
+[2019.06.03-02.06.36:997][624]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.06.37:084][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087296s)
+[2019.06.03-02.06.37:086][624]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.06.37:086][624]LogPlayLevel: PIE: World Init took: (0.001773s)
+[2019.06.03-02.06.37:087][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.089849s)
+[2019.06.03-02.06.37:154][624]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.06.37:162][624]LogInit: FAudioDevice initialized.
+[2019.06.03-02.06.37:197][624]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.06.37:206][624]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.06.37
+[2019.06.03-02.06.37:208][624]LogWorld: Bringing up level for play took: 0.009299
+[2019.06.03-02.06.37:213][624]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.359
+[2019.06.03-02.06.37:214][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.06.41:792][137]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.06.42:295][196]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.06.42:801][256]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.06.43:306][316]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.06.43:807][376]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.06.44:310][436]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.06.56:394][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.06.56:434][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.09.51:756][124]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.09.55:486][367]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.09.55:797][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.09.55:813][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.09.55:813][367]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:09:55)
+[2019.06.03-02.09.55:813][367]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.09.55:844][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030652s)
+[2019.06.03-02.09.55:844][367]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.09.55:845][367]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2019.06.03-02.09.55:845][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031705s)
+[2019.06.03-02.09.55:869][367]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.09.55:876][367]LogInit: FAudioDevice initialized.
+[2019.06.03-02.09.55:915][367]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.09.55:918][367]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.09.55
+[2019.06.03-02.09.55:919][367]LogWorld: Bringing up level for play took: 0.003572
+[2019.06.03-02.09.55:921][367]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.36
+[2019.06.03-02.09.55:921][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.09.58:458][639]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.09.58:959][699]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.09.59:460][759]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.10.00:464][879]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.10.08:696][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.10.08:756][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.10.12:195][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.06.03-02.10.12:716][303]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.06.03-02.11.03:247][208]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.11.09:851][564]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.11.10:341][564]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.11.10:443][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.11.10:443][564]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:11:10)
+[2019.06.03-02.11.10:443][564]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.11.10:623][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179676s)
+[2019.06.03-02.11.10:624][564]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.11.10:624][564]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2019.06.03-02.11.10:625][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.181271s)
+[2019.06.03-02.11.10:682][564]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.11.10:689][564]LogInit: FAudioDevice initialized.
+[2019.06.03-02.11.10:728][564]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.11.10:731][564]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.11.10
+[2019.06.03-02.11.10:732][564]LogWorld: Bringing up level for play took: 0.003521
+[2019.06.03-02.11.10:734][564]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.177
+[2019.06.03-02.11.10:734][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.11.13:273][836]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.13:778][896]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.14:285][956]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.14:786][ 16]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.11.15:287][ 76]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.11.21:360][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.11.21:395][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.11.22:633][942]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (PlayerTag)
+[2019.06.03-02.11.45:152][870]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.11.45:753][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.11.45:765][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.11.45:766][870]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:11:45)
+[2019.06.03-02.11.45:766][870]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.11.45:846][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079522s)
+[2019.06.03-02.11.45:847][870]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.11.45:847][870]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2019.06.03-02.11.45:848][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.081391s)
+[2019.06.03-02.11.45:883][870]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.11.45:893][870]LogInit: FAudioDevice initialized.
+[2019.06.03-02.11.45:925][870]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.11.45:931][870]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.11.45
+[2019.06.03-02.11.45:932][870]LogWorld: Bringing up level for play took: 0.006134
+[2019.06.03-02.11.45:937][870]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.382
+[2019.06.03-02.11.45:938][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.11.49:491][264]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.49:991][324]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.50:493][382]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.50:993][442]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.51:497][502]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.51:997][562]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.11.52:999][682]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.11.54:003][802]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.11.54:504][862]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.12.00:486][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.12.00:541][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.12.02:575][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.06.03-02.12.02:980][849]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.06.03-02.14.44:583][892]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.14.47:738][ 42]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.14.48:268][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.48:279][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.14.48:279][ 42]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:14:48)
+[2019.06.03-02.14.48:279][ 42]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.14.48:330][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051126s)
+[2019.06.03-02.14.48:331][ 42]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.14.48:331][ 42]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.06.03-02.14.48:331][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.052383s)
+[2019.06.03-02.14.48:385][ 42]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.14.48:394][ 42]LogInit: FAudioDevice initialized.
+[2019.06.03-02.14.48:430][ 42]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.14.48:434][ 42]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.14.48
+[2019.06.03-02.14.48:435][ 42]LogWorld: Bringing up level for play took: 0.003365
+[2019.06.03-02.14.48:436][ 42]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	NewBlueprint_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewBlueprint_302
+	Function /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint:0000
+[2019.06.03-02.14.48:437][ 42]PIE: Error: 무한 루프 발견된 곳:  NewBlueprint , 어서트 발생당시  Roam  with the following  콜 스택
+[2019.06.03-02.14.48:439][ 42]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.893
+[2019.06.03-02.14.48:440][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.48:443][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.48:575][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.50:976][229]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.14.51:463][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.51:463][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.14.51:464][229]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:14:51)
+[2019.06.03-02.14.51:464][229]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.14.51:528][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063524s)
+[2019.06.03-02.14.51:529][229]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.14.51:529][229]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2019.06.03-02.14.51:530][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.065425s)
+[2019.06.03-02.14.51:566][229]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.14.51:573][229]LogInit: FAudioDevice initialized.
+[2019.06.03-02.14.51:601][229]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.14.51:604][229]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.14.51
+[2019.06.03-02.14.51:605][229]LogWorld: Bringing up level for play took: 0.003603
+[2019.06.03-02.14.51:606][229]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	NewBlueprint_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewBlueprint_302
+	Function /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint:0000
+[2019.06.03-02.14.51:607][229]PIE: Error: 무한 루프 발견된 곳:  NewBlueprint , 어서트 발생당시  Roam  with the following  콜 스택
+[2019.06.03-02.14.51:609][229]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.063
+[2019.06.03-02.14.51:609][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.51:612][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.51:711][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.14.53:578][402]Cmd: SELECT NONE
+[2019.06.03-02.14.57:050][634]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.14.59:685][813]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.15.00:184][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.00:187][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.15.00:187][813]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:15:00)
+[2019.06.03-02.15.00:187][813]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.15.00:226][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038715s)
+[2019.06.03-02.15.00:227][813]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.15.00:227][813]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2019.06.03-02.15.00:227][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040108s)
+[2019.06.03-02.15.00:261][813]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.15.00:269][813]LogInit: FAudioDevice initialized.
+[2019.06.03-02.15.00:317][813]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.15.00:327][813]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.15.00
+[2019.06.03-02.15.00:329][813]LogWorld: Bringing up level for play took: 0.010394
+[2019.06.03-02.15.00:332][813]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	NewBlueprint_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewBlueprint_302
+	Function /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint:0000
+[2019.06.03-02.15.00:333][813]PIE: Error: 무한 루프 발견된 곳:  NewBlueprint , 어서트 발생당시  Roam  with the following  콜 스택
+[2019.06.03-02.15.00:341][813]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.796
+[2019.06.03-02.15.00:342][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.00:349][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.00:478][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.04:040][203]Cmd: SELECT NONE
+[2019.06.03-02.15.04:344][227]Cmd: SELECT NONE
+[2019.06.03-02.15.04:513][236]Cmd: SELECT NONE
+[2019.06.03-02.15.04:670][248]Cmd: SELECT NONE
+[2019.06.03-02.15.04:824][264]Cmd: SELECT NONE
+[2019.06.03-02.15.04:975][281]Cmd: SELECT NONE
+[2019.06.03-02.15.05:634][357]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.15.06:091][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.06:100][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.15.06:100][357]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:15:06)
+[2019.06.03-02.15.06:100][357]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.15.06:174][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073703s)
+[2019.06.03-02.15.06:175][357]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.15.06:175][357]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2019.06.03-02.15.06:176][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.075060s)
+[2019.06.03-02.15.06:207][357]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.15.06:216][357]LogInit: FAudioDevice initialized.
+[2019.06.03-02.15.06:251][357]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.15.06:254][357]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.15.06
+[2019.06.03-02.15.06:255][357]LogWorld: Bringing up level for play took: 0.003400
+[2019.06.03-02.15.06:256][357]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	NewBlueprint_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewBlueprint_302
+	Function /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint:0000
+[2019.06.03-02.15.06:256][357]PIE: Error: 무한 루프 발견된 곳:  NewBlueprint , 어서트 발생당시  Roam  with the following  콜 스택
+[2019.06.03-02.15.06:259][357]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.714
+[2019.06.03-02.15.06:259][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.06:263][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.06:387][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.07:761][478]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.03-02.15.08:495][529]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.03-02.15.10:528][692]Cmd: SELECT NONE
+[2019.06.03-02.15.10:730][712]Cmd: SELECT NONE
+[2019.06.03-02.15.20:121][567]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.15.20:342][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.20:345][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.15.20:345][567]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:15:20)
+[2019.06.03-02.15.20:345][567]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.15.20:399][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053369s)
+[2019.06.03-02.15.20:400][567]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.15.20:400][567]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2019.06.03-02.15.20:400][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.055148s)
+[2019.06.03-02.15.20:434][567]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.15.20:443][567]LogInit: FAudioDevice initialized.
+[2019.06.03-02.15.20:477][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.15.20:481][567]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.15.20
+[2019.06.03-02.15.20:482][567]LogWorld: Bringing up level for play took: 0.003775
+[2019.06.03-02.15.20:483][567]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	NewBlueprint_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewBlueprint_302
+	Function /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint:0000
+[2019.06.03-02.15.20:483][567]PIE: Error: 무한 루프 발견된 곳:  NewBlueprint , 어서트 발생당시  Roam  with the following  콜 스택
+[2019.06.03-02.15.20:486][567]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.942
+[2019.06.03-02.15.20:486][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.20:491][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.20:630][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.28:979][ 79]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.06.03-02.15.30:475][133]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.15.46:008][199]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.15.47:621][300]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.15.47:795][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.47:813][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.15.47:813][300]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:15:47)
+[2019.06.03-02.15.47:813][300]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.15.47:864][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050939s)
+[2019.06.03-02.15.47:865][300]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.15.47:865][300]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.06.03-02.15.47:865][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.051955s)
+[2019.06.03-02.15.47:887][300]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.15.47:897][300]LogInit: FAudioDevice initialized.
+[2019.06.03-02.15.47:940][300]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.15.47:948][300]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.15.47
+[2019.06.03-02.15.47:950][300]LogWorld: Bringing up level for play took: 0.008308
+[2019.06.03-02.15.47:952][300]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.15.47:955][300]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.412
+[2019.06.03-02.15.47:955][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.15.51:521][698]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.15.52:024][757]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.15.52:530][816]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.15.53:034][876]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.15.53:535][936]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.15.53:535][936]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.15.55:042][114]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.15.56:054][234]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.15.56:557][294]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.15.57:044][351]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.15.59:053][589]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.16.03:623][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.16.03:692][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.16.08:387][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.06.03-02.16.08:715][664]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.06.03-02.17.08:732][117]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.17.21:309][830]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.17.21:936][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.17.21:942][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.17.21:943][830]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:17:21)
+[2019.06.03-02.17.21:943][830]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.17.21:995][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051727s)
+[2019.06.03-02.17.21:995][830]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.17.21:995][830]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.06.03-02.17.21:996][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.052929s)
+[2019.06.03-02.17.22:053][830]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.17.22:062][830]LogInit: FAudioDevice initialized.
+[2019.06.03-02.17.22:103][830]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.17.22:110][830]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.17.22
+[2019.06.03-02.17.22:111][830]LogWorld: Bringing up level for play took: 0.006761
+[2019.06.03-02.17.22:113][830]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.22:115][830]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.577
+[2019.06.03-02.17.22:115][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.17.24:782][118]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.24:782][118]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.24:782][118]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.17.25:289][177]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.25:289][177]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.25:290][177]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.17.25:794][236]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.25:794][236]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.17.25:794][236]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.17.30:820][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.17.30:871][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.17.33:904][150]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.06.03-02.18.42:596][201]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.18.44:193][272]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.18.44:343][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.18.44:356][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.18.44:356][272]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:18:44)
+[2019.06.03-02.18.44:356][272]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.18.44:389][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033582s)
+[2019.06.03-02.18.44:390][272]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.18.44:390][272]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2019.06.03-02.18.44:391][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034738s)
+[2019.06.03-02.18.44:443][272]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.18.44:451][272]LogInit: FAudioDevice initialized.
+[2019.06.03-02.18.44:485][272]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.18.44:489][272]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.18.44
+[2019.06.03-02.18.44:490][272]LogWorld: Bringing up level for play took: 0.003687
+[2019.06.03-02.18.44:491][272]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.18.44:492][272]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.959
+[2019.06.03-02.18.44:492][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.18.47:037][554]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.18.47:540][613]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.18.48:042][672]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.18.48:542][731]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.18.49:044][791]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.18.55:088][508]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.18.55:594][566]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.18.56:600][681]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.18.57:106][740]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.19.02:854][416]LogBlueprintUserMessages: [NewBlueprint_302] Hello
+[2019.06.03-02.19.02:854][416]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.19.08:224][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.19.08:274][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.19.21:171][ 24]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.19.23:114][165]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.19.23:252][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.19.23:262][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.19.23:262][165]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:19:23)
+[2019.06.03-02.19.23:262][165]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.19.23:297][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034912s)
+[2019.06.03-02.19.23:298][165]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.19.23:298][165]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2019.06.03-02.19.23:298][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036087s)
+[2019.06.03-02.19.23:325][165]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.19.23:334][165]LogInit: FAudioDevice initialized.
+[2019.06.03-02.19.23:372][165]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.19.23:379][165]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.19.23
+[2019.06.03-02.19.23:381][165]LogWorld: Bringing up level for play took: 0.007721
+[2019.06.03-02.19.23:383][165]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.19.23:385][165]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.146
+[2019.06.03-02.19.23:386][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.19.24:925][338]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.19.25:426][396]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.19.25:930][455]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.19.26:434][514]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.19.26:939][574]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.19.31:866][159]LogBlueprintUserMessages: [NewBlueprint_302] Hello
+[2019.06.03-02.19.31:866][159]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.19.35:731][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.19.35:771][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.20.30:540][512]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.20.32:361][630]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.20.32:885][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.20.32:892][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.20.32:893][630]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:20:32)
+[2019.06.03-02.20.32:893][630]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.20.32:948][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054841s)
+[2019.06.03-02.20.32:948][630]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.20.32:949][630]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.06.03-02.20.32:949][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.056336s)
+[2019.06.03-02.20.32:979][630]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.20.32:986][630]LogInit: FAudioDevice initialized.
+[2019.06.03-02.20.33:027][630]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.20.33:033][630]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.20.33
+[2019.06.03-02.20.33:035][630]LogWorld: Bringing up level for play took: 0.008032
+[2019.06.03-02.20.33:038][630]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.20.33:041][630]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.486
+[2019.06.03-02.20.33:042][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.20.35:163][864]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.35:666][922]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.36:167][981]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.42:213][695]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.42:713][754]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.43:215][813]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.43:718][872]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.44:218][931]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.44:720][991]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.49:760][588]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.50:263][647]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.50:769][707]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.51:269][765]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.20.51:772][825]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.52:274][885]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.52:779][944]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.54:792][182]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.57:806][541]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.59:312][721]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.20.59:813][780]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.00:316][840]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.00:820][899]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.03:333][196]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.21.11:882][212]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.21.12:384][272]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.12:885][331]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.13:390][391]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.13:896][450]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.14:401][510]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.14:904][570]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.15:378][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.21.15:417][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.21.16:332][726]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.21.16:415][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.21.16:416][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.21.16:416][726]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:21:16)
+[2019.06.03-02.21.16:417][726]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.21.16:469][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051976s)
+[2019.06.03-02.21.16:470][726]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.21.16:470][726]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2019.06.03-02.21.16:470][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.053458s)
+[2019.06.03-02.21.16:504][726]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.21.16:513][726]LogInit: FAudioDevice initialized.
+[2019.06.03-02.21.16:544][726]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.21.16:548][726]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.21.16
+[2019.06.03-02.21.16:548][726]LogWorld: Bringing up level for play took: 0.003731
+[2019.06.03-02.21.16:549][726]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.21.16:551][726]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.025
+[2019.06.03-02.21.16:551][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.21.19:660][ 85]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.20:167][144]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.20:674][204]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.21.21:182][262]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.21.25:226][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.21.25:268][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.21.28:839][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.06.03-02.21.29:817][251]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.06.03-02.22.18:669][180]BlueprintLog: New page: NewBlueprint 컴파일
+[2019.06.03-02.22.20:189][234]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.22.20:337][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.22.20:346][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.22.20:347][234]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:22:20)
+[2019.06.03-02.22.20:347][234]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.22.20:371][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024207s)
+[2019.06.03-02.22.20:372][234]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.22.20:372][234]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.06.03-02.22.20:372][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025262s)
+[2019.06.03-02.22.20:421][234]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.22.20:438][234]LogInit: FAudioDevice initialized.
+[2019.06.03-02.22.20:606][234]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.22.20:618][234]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.22.20
+[2019.06.03-02.22.20:621][234]LogWorld: Bringing up level for play took: 0.012626
+[2019.06.03-02.22.20:624][234]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.22.20:628][234]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.106
+[2019.06.03-02.22.20:628][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.22.22:169][383]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.22.22:671][442]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.22.23:176][502]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.22.23:683][562]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.24:694][681]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.25:705][801]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.32:745][638]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.34:248][818]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.35:257][938]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.35:760][998]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.36:260][ 58]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.22.36:763][118]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.22.37:764][235]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.42:296][773]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.22.42:464][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.22.42:506][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.22.44:670][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2019.06.03-02.22.48:211][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.22.53:574][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.06.03-02.22.55:049][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.06.03-02.22.55:980][157]Cmd: DELETE
+[2019.06.03-02.22.55:980][157]Cmd: ACTOR DELETE
+[2019.06.03-02.22.55:994][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.03-02.22.56:013][157]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.06.03-02.22.56:440][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.06.03-02.22.56:653][222]Cmd: DELETE
+[2019.06.03-02.22.56:653][222]Cmd: ACTOR DELETE
+[2019.06.03-02.22.56:656][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.03-02.22.56:676][222]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.06.03-02.22.57:540][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.06.03-02.22.57:911][356]Cmd: DELETE
+[2019.06.03-02.22.57:911][356]Cmd: ACTOR DELETE
+[2019.06.03-02.22.57:913][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.03-02.22.57:932][356]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.03-02.22.59:291][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.06.03-02.22.59:509][532]Cmd: DELETE
+[2019.06.03-02.22.59:509][532]Cmd: ACTOR DELETE
+[2019.06.03-02.22.59:512][532]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.03-02.22.59:531][532]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.06.03-02.23.00:251][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.00:634][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.00:942][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.15:305][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.16:546][279]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.06.03-02.23.16:964][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.17:724][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.18:233][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.18:793][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.19:237][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.19:777][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.20:308][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.23.20:718][678]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.06.03-02.23.29:194][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.23.30:775][676]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.23.30:980][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.23.30:981][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.23.30:981][676]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:23:30)
+[2019.06.03-02.23.30:982][676]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.23.31:036][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054154s)
+[2019.06.03-02.23.31:037][676]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.23.31:037][676]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2019.06.03-02.23.31:037][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.055853s)
+[2019.06.03-02.23.31:070][676]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.23.31:079][676]LogInit: FAudioDevice initialized.
+[2019.06.03-02.23.31:112][676]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.23.31:118][676]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.23.31
+[2019.06.03-02.23.31:120][676]LogWorld: Bringing up level for play took: 0.006821
+[2019.06.03-02.23.31:122][676]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.23.31:124][676]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.394
+[2019.06.03-02.23.31:124][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.23.33:778][960]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.23.34:284][ 18]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.23.34:789][ 76]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.23.49:594][826]LogBlueprintUserMessages: [NewBlueprint_302] Hello
+[2019.06.03-02.23.49:594][826]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.23.52:687][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.23.52:722][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.24.20:423][555]LogSavePackage: Save=3510.76ms
+[2019.06.03-02.24.20:423][555]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMapC959F2C9433EE23318515F8334670134.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.03-02.24.20:503][555]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.03-02.24.27:618][555]LogSavePackage: Save=3993.38ms
+[2019.06.03-02.24.27:618][555]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_BuiltDataD6DFB31640FBD25432DAB0B1EE8A164D.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.06.03-02.24.27:677][555]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.06.03-02.24.54:643][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.24.55:843][861]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.24.56:348][913]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.24.57:110][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.24.57:654][ 50]Cmd: SELECT NONE
+[2019.06.03-02.25.24:903][283]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.25.24:986][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.25.24:987][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.25.24:988][283]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:25:24)
+[2019.06.03-02.25.24:988][283]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.25.25:048][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059934s)
+[2019.06.03-02.25.25:049][283]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.25.25:049][283]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2019.06.03-02.25.25:050][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.061530s)
+[2019.06.03-02.25.25:076][283]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.25.25:084][283]LogInit: FAudioDevice initialized.
+[2019.06.03-02.25.25:118][283]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.25.25:121][283]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.25.25
+[2019.06.03-02.25.25:122][283]LogWorld: Bringing up level for play took: 0.003612
+[2019.06.03-02.25.25:123][283]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.25.25:125][283]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.388
+[2019.06.03-02.25.25:125][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.25.28:189][644]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.25.28:692][704]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.25.29:193][764]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.25.29:694][824]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.06.03-02.25.38:597][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.25.38:636][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.25.47:273][862]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.03-02.30.09:604][866]LogSavePackage: Save=3366.14ms
+[2019.06.03-02.30.09:604][866]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap49614C4E47B3180C92F7AAA7299CD27B.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.03-02.30.09:687][866]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.03-02.30.19:104][866]LogSavePackage: Save=5064.32ms
+[2019.06.03-02.30.19:104][866]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_BuiltDataAB4E08BB41C85FAE2897F2927F9D49EE.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.06.03-02.30.19:258][866]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.06.03-02.30.19:794][899]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.06.03-02.30.20:178][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.30.20:182][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-02.30.20:182][899]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 6. 3. 오후 8:30:20)
+[2019.06.03-02.30.20:182][899]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.03-02.30.20:229][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046232s)
+[2019.06.03-02.30.20:230][899]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.03-02.30.20:230][899]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2019.06.03-02.30.20:230][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.047893s)
+[2019.06.03-02.30.20:282][899]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-02.30.20:291][899]LogInit: FAudioDevice initialized.
+[2019.06.03-02.30.20:328][899]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.03-02.30.20:331][899]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.03-11.30.20
+[2019.06.03-02.30.20:332][899]LogWorld: Bringing up level for play took: 0.003563
+[2019.06.03-02.30.20:333][899]LogBlueprintUserMessages: [NewBlueprint_302] Roam
+[2019.06.03-02.30.20:334][899]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.838
+[2019.06.03-02.30.20:335][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.30.22:871][182]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.30.23:375][242]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.30.23:876][302]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.30.24:380][362]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.06.03-02.30.32:787][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.30.32:830][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.03-02.30.41:186][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.03-02.30.42:448][435]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.06.03-02.34.37:285][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.06.03-02.40.17:532][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.027
+[2019.06.03-02.40.17:577][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Enemy/NewBlueprint] ([1] browsable assets)...
+[2019.06.03-02.40.17:593][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Enemy/NewBlueprint.NewBlueprint]
+[2019.06.03-02.40.17:593][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Enemy/NewBlueprint]
+[2019.06.03-02.40.19:009][923]LogSavePackage: Save=1017.52ms
+[2019.06.03-02.40.19:009][923]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/NewBlueprint_Auto2F3E7EE314711B71F91DE258032935C96.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPerson/Enemy/NewBlueprint_Auto2.uasset'
+[2019.06.03-02.40.19:063][923]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPerson/Enemy/NewBlueprint_Auto2.uasset
+[2019.06.03-02.40.19:087][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.06.03-02.40.19:089][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.06.03-02.40.22:043][923]LogSavePackage: Save=2538.25ms
+[2019.06.03-02.40.22:043][923]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonCharacter_Auto27FD2C2EC4D8D95833B58A483C17ECE1E.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.06.03-02.40.22:089][923]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset
+[2019.06.03-02.40.22:089][923]LogFileHelpers: Auto-saving content packages took 4.556
+[2019.06.03-02.41.09:930][145]LogSavePackage: Save=3190.43ms
+[2019.06.03-02.41.09:930][145]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMapAC7D49D84121386A7495BE9C04AB78CF.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.03-02.41.10:007][145]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.06.03-02.41.17:828][145]LogSavePackage: Save=4883.04ms
+[2019.06.03-02.41.17:829][145]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_BuiltData40BBF046409B0B0AAA9EE487E9832281.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.06.03-02.41.17:867][145]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.06.03-02.41.28:186][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Enemy/NewBlueprint" FILE="//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPerson/Enemy/NewBlueprint.uasset" SILENT=true
+[2019.06.03-02.41.29:487][ 29]LogSavePackage: Save=922.55ms
+[2019.06.03-02.41.29:487][ 29]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/NewBlueprint54B9E9084537AED974321B848E9A3BDA.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPerson/Enemy/NewBlueprint.uasset'
+[2019.06.03-02.41.29:552][ 29]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPerson/Enemy/NewBlueprint.uasset
+[2019.06.03-02.41.31:683][ 29]LogSavePackage: Save=1754.39ms
+[2019.06.03-02.41.31:683][ 29]LogSavePackage: Moving '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Saved/FirstPersonCharacter1121BF2A4C0BFE0FD2F1AF92CFE1BBCB.tmp' to '//pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.03-02.41.31:754][ 29]LogSavePackage: Display: Finished SavePackage //pub.mme.dongguk.edu/home/GitHub/Assignments/Shoot/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2019.06.03-02.41.32:495][ 29]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.03-02.41.32:929][ 30]Cmd: QUIT_EDITOR
+[2019.06.03-02.41.33:020][ 30]LogExit: Preparing to exit.
+[2019.06.03-02.41.34:029][ 30]LogExit: Editor shut down
+[2019.06.03-02.41.34:040][ 30]LogExit: Transaction tracking system shut down

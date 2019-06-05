@@ -1,0 +1,1256 @@
+﻿Log file open, 05/29/19 10:40:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Shoot
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1479078132) SRandInit(1479078132).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227749
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.29-01.40.54:443][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-01.40.54:443][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-01.40.54:694][  0]LogInit: Computer: 4105-10
+[2019.05.29-01.40.54:694][  0]LogInit: User: s2014112564
+[2019.05.29-01.40.54:694][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.29-01.40.54:694][  0]LogInit: High frequency timer resolution =3.410117 MHz
+[2019.05.29-01.40.54:694][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.29-01.40.54:694][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-01.40.54:694][  0]LogMemory: Process Physical Memory: 272.94 MB used, 272.94 MB peak
+[2019.05.29-01.40.54:694][  0]LogMemory: Process Virtual Memory: 265.40 MB used, 265.40 MB peak
+[2019.05.29-01.40.54:694][  0]LogMemory: Physical Memory: 4014.66 MB used,  4077.28 MB free, 8091.94 MB total
+[2019.05.29-01.40.54:694][  0]LogMemory: Virtual Memory: 619.81 MB used,  4077.28 MB free, 8388608.00 MB total
+[2019.05.29-01.40.54:843][  0]LogInit: Using OS detected language (ko-KR).
+[2019.05.29-01.40.54:843][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.05.29-01.40.54:847][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.05.29-01.40.55:009][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.05.29-01.40.55:009][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.05.29-01.40.55:009][  0]LogInit: Setting process to DPI aware
+[2019.05.29-01.40.55:015][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.05.29-01.40.55:015][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.05.29-01.40.55:015][  0]LogInit: Setting process to DPI aware
+[2019.05.29-01.40.55:317][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-01.40.55:343][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.05.29-01.40.55:343][  0]LogD3D11RHI:       1960/0/3789 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.29-01.40.55:356][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.05.29-01.40.55:356][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.29-01.40.55:356][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-01.40.55:361][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-01.40.55:361][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-01.40.55:361][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-01.40.55:361][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.05.29-01.40.55:362][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    7. 'RDPDD Chained DD' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    8. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows:    9. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.05.29-01.40.55:362][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.29-01.40.55:362][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.05.29-01.40.55:363][  0]LogD3D11RHI:   Driver Version: 398.75 (internal:24.21.13.9875, unified:398.75)
+[2019.05.29-01.40.55:363][  0]LogD3D11RHI:      Driver Date: 7-24-2018
+[2019.05.29-01.40.55:363][  0]LogRHI: Texture pool is 1372 MB (70% of 1960 MB)
+[2019.05.29-01.40.55:374][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-01.40.55:389][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.29-01.40.55:436][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (X:/GitHub/Assignments/Shoot/Intermediate/Shaders/WorkingDirectory/2932/).
+[2019.05.29-01.40.55:436][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s2014112564/AppData/Local/Temp/UnrealShaderWorkingDir/5A89E0DD4AB41BB3D25C3396BA5AF5C4/'.
+[2019.05.29-01.40.55:436][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-01.40.56:271][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-01.40.56:332][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-01.40.56:395][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-01.40.56:458][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-01.40.56:523][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-01.40.56:604][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-01.40.56:666][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-01.40.56:729][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-01.40.56:781][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-01.40.56:844][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.05.29-01.40.56:905][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.05.29-01.40.56:967][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.05.29-01.40.57:031][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.05.29-01.40.57:109][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.05.29-01.40.57:252][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.05.29-01.40.57:252][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.05.29-01.40.57:314][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-01.40.57:357][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-01.40.57:453][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-01.40.57:485][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-01.40.57:562][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-01.40.57:631][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-01.40.57:692][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-01.40.57:754][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-01.40.57:754][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-01.40.58:222][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-01.40.58:317][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/s2014112564/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.05.29-01.40.58:317][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s2014112564/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.05.29-01.40.58:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file X:/GitHub/Assignments/Shoot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-01.40.58:322][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-01.40.58:326][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file X:/GitHub/Assignments/Shoot/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-01.40.58:326][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-01.40.58:342][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-01.40.58:354][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s2014112564/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-01.40.58:363][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-01.40.58:364][  0]LogSlate: Using Freetype 2.6.0
+[2019.05.29-01.40.58:364][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-01.40.58:364][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-01.40.58:974][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-01.40.59:381][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-01.40.59:426][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-01.40.59:426][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-01.40.59:426][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-01.40.59:426][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.05.29-01.40.59:426][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.05.29-01.40.59:458][  0]LogNetVersion: Shoot , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 364515715)
+[2019.05.29-01.40.59:633][  0]LogAssetRegistry: FAssetRegistry took 0.0361 seconds to start up
+[2019.05.29-01.41.04:161][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 2.482948 seconds
+[2019.05.29-01.41.04:167][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2019.05.29-01.41.04:167][  0]LogUObjectAllocator: 7363920 out of 0 bytes used by permanent object pool.
+[2019.05.29-01.41.04:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-01.41.04:330][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.05.29-01.41.07:297][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-01.41.07:339][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-01.41.07:340][  0]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.08:354][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.05.29-01.41.08:981][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.05.29-01.41.08:981][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.05.29-01.41.09:047][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.05.29-01.41.09:109][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.05.29-01.41.10:160][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-01.41.10:470][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-01.41.10:792][  0]LogEngine: Initializing Engine...
+[2019.05.29-01.41.10:794][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-01.41.11:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-01.41.11:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-01.41.11:178][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-01.41.11:192][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-01.41.11:225][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-01.41.11:306][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/s2014112564/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.05.29-01.41.11:339][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-01.41.11:425][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-01.41.11:564][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-01.41.11:909][  0]BlueprintLog: New page: 에디터 로드
+[2019.05.29-01.41.12:960][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.05.29-01.41.14:176][  0]LogConsoleResponse: Display: 
+[2019.05.29-01.41.14:386][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-01.41.14:386][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-01.41.14:386][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-01.41.15:904][  0]LogFileCache: Scanning file cache for directory 'X:/GitHub/Assignments/Shoot/Content/' took 0.62s
+[2019.05.29-01.41.15:904][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.05.29-01.41.15:904][  0]Cmd: MAP LOAD FILE="X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-01.41.15:979][  0]LightingResults: New page: 라이팅 빌드
+[2019.05.29-01.41.16:027][  0]MapCheck: New page: 맵 체크
+[2019.05.29-01.41.16:027][  0]LightingResults: New page: 라이팅 빌드
+[2019.05.29-01.41.21:236][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] 입력 액션 이벤트가  Crouch 입력 액션  에 대한 미확인 'Crouch' 액션을 레퍼런싱합니다.
+[2019.05.29-01.41.21:244][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0033.34] Ue4ASP_Character 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 43 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.05.29-01.41.36:245][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-01.41.36:267][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-01.41.36:289][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-01.41.37:652][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1,363.024ms.
+[2019.05.29-01.41.37:653][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 21.750
+[2019.05.29-01.41.37:893][  0]LogCollectionManager: Loaded 0 collections in 0.033759 seconds
+[2019.05.29-01.41.38:116][  0]LogFileCache: Scanning file cache for directory 'X:/GitHub/Assignments/Shoot/Saved/Collections/' took 0.03s
+[2019.05.29-01.41.38:116][  0]LogFileCache: Scanning file cache for directory 'X:/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/' took 0.03s
+[2019.05.29-01.41.38:116][  0]LogFileCache: Scanning file cache for directory 'X:/GitHub/Assignments/Shoot/Content/Collections/' took 0.03s
+[2019.05.29-01.41.38:116][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.29-01.41.38:126][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2363 classes and 519 folders.
+[2019.05.29-01.41.38:198][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-01.41.38:341][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-01.41.38:397][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.29-01.41.38:581][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-01.41.38:585][  0]LogSlate: Took 0.003054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.05.29-01.41.38:586][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-01.41.38:591][  0]LogSlate: Took 0.001126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-01.41.38:693][  0]LogRenderer: Reallocating scene render targets to support 1136x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-01.41.38:759][  0]LogSlate: Took 0.001443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.05.29-01.41.38:961][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.29-01.41.38:961][  0]LogLoad: (Engine Initialization) Total time: 51.06 seconds
+[2019.05.29-01.41.38:961][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-01.41.38:961][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.05.29-01.41.38:961][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.05.29-01.41.38:998][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-01.41.39:785][  1]LogAssetRegistry: Asset discovery search completed in 40.1741 seconds
+[2019.05.29-01.41.39:787][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-01.41.39:787][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.05.29-01.41.40:005][  3]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:006][  3]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/', and we were unable to create a new request.
+[2019.05.29-01.41.40:006][  3]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:007][  3]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:007][  3]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:070][  4]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:070][  4]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Saved/Collections/', and we were unable to create a new request.
+[2019.05.29-01.41.40:070][  4]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:071][  4]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/Collections/', and we were unable to create a new request.
+[2019.05.29-01.41.40:071][  4]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.05.29-01.41.40:072][  4]LogDirectoryWatcher: A directory notification failed for 'X:/GitHub/Assignments/Shoot/Content/Developers/s2014112564/Collections/', and we were unable to create a new request.
+[2019.05.29-01.42.03:270][362]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-01.42.04:384][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.42.04:386][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-01.42.04:387][362]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 7:42:04)
+[2019.05.29-01.42.04:388][362]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-01.42.04:427][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039210s)
+[2019.05.29-01.42.04:427][362]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-01.42.04:428][362]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.05.29-01.42.04:428][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040311s)
+[2019.05.29-01.42.04:442][362]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-01.42.04:451][362]LogInit: FAudioDevice initialized.
+[2019.05.29-01.42.04:494][362]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-01.42.04:498][362]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-10.42.04
+[2019.05.29-01.42.04:502][362]LogWorld: Bringing up level for play took: 0.007069
+[2019.05.29-01.42.04:596][362]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2019.05.29-01.42.04:602][362]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.247
+[2019.05.29-01.42.04:602][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.42.07:201][643]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.07:701][703]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.08:201][763]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.08:705][823]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.09:206][883]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.14:208][483]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.14:709][543]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.15:209][603]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.15:710][663]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.42.18:489][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.42.18:528][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.42.21:847][354]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.05.29-01.42.24:051][533]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.05.29-01.42.24:470][533]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2019.05.29-01.42.25:206][533]LogSlate: Took 0.001333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-01.42.25:375][534]LogSlate: Took 0.001341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-01.43.18:998][538]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-01.43.19:112][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.43.19:129][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-01.43.19:129][538]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 7:43:19)
+[2019.05.29-01.43.19:129][538]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-01.43.19:165][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036242s)
+[2019.05.29-01.43.19:166][538]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-01.43.19:166][538]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.05.29-01.43.19:166][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037476s)
+[2019.05.29-01.43.19:216][538]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-01.43.19:226][538]LogInit: FAudioDevice initialized.
+[2019.05.29-01.43.19:272][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-01.43.19:276][538]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-10.43.19
+[2019.05.29-01.43.19:277][538]LogWorld: Bringing up level for play took: 0.003774
+[2019.05.29-01.43.19:279][538]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.434
+[2019.05.29-01.43.19:279][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.43.20:808][705]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.21:312][765]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.21:813][825]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.22:314][885]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.22:815][945]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.23:818][ 65]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.24:319][125]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.25:320][245]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.26:822][425]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.28:326][605]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.28:827][665]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.29:331][725]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.29:837][785]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.35:349][445]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.36:351][565]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-01.43.36:852][625]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.37:352][685]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.37:853][745]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.38:354][805]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.38:858][865]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-01.43.39:308][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.43.39:350][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-01.43.42:152][246]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.05.29-01.56.04:822][343]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.58.57:028][585]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.05.29-01.59.07:714][824]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.13:206][405]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.13:914][477]Cmd: TRANSACTION UNDO
+[2019.05.29-01.59.13:914][477]LogEditorTransaction: Undo 액터 클릭
+[2019.05.29-01.59.13:977][477]LogSlate: Took 0.001774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.05.29-01.59.15:531][620]Cmd: TRANSACTION UNDO
+[2019.05.29-01.59.15:531][620]LogEditorTransaction: Undo 액터 클릭
+[2019.05.29-01.59.17:468][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.17:985][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2019.05.29-01.59.18:253][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.29-01.59.18:855][977]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.19:696][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.20:050][ 88]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.05.29-01.59.23:246][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.23:618][487]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.24:890][624]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.25:509][678]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.26:918][824]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.27:491][883]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.28:054][937]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.28:873][ 14]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.29:277][ 55]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.29:689][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.29:995][123]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.29-01.59.31:000][227]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-01.59.31:762][295]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.00.22:811][754]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for X:/GitHub/Assignments/Shoot/Plugins/. Error: 지정된 파일을 찾을 수 없습니다. (0x00000002)
+[2019.05.29-02.00.24:113][868]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.05.29-02.00.26:743][ 39]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.29-02.00.28:017][ 59]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Shoot
+[2019.05.29-02.00.28:017][ 59]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.05.29-02.00.28:017][ 59]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2019.05.29-02.00.28:017][ 59]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.05.29-02.00.28:033][ 60]LogTemp: BranchPath = 4105-10/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = 4105-10/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2019.05.29-02.00.28:101][ 65]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\s2014112564\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.29-02.02.42:093][655]LogSlate: Took 0.001498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-02.02.45:344][655]LogSavePackage: Save=3559.91ms
+[2019.05.29-02.02.45:344][655]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_Auto1899A55E14229329D0952DD9AF7629923.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.05.29-02.02.45:385][655]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2019.05.29-02.02.45:405][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 5.705
+[2019.05.29-02.02.45:405][655]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.705
+[2019.05.29-02.05.50:908][982]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.05.54:236][121]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.05.54:416][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.05.54:424][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.05.54:424][121]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:05:54)
+[2019.05.29-02.05.54:424][121]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.05.54:472][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047477s)
+[2019.05.29-02.05.54:472][121]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.05.54:472][121]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.05.29-02.05.54:472][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.048467s)
+[2019.05.29-02.05.54:521][121]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.05.54:530][121]LogInit: FAudioDevice initialized.
+[2019.05.29-02.05.54:577][121]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.05.54:581][121]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.05.54
+[2019.05.29-02.05.54:581][121]LogWorld: Bringing up level for play took: 0.003909
+[2019.05.29-02.05.54:583][121]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.202
+[2019.05.29-02.05.54:584][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.06.00:139][663]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.06.00:639][723]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.06.01:141][783]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.06.01:208][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.06.01:245][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.06.04:531][176]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.08.46:180][377]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2019.05.29-02.08.46:183][377]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-02.08.55:085][470]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.08.58:082][635]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.08.58:246][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.08.58:253][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.08.58:253][635]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:08:58)
+[2019.05.29-02.08.58:254][635]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.08.58:286][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032201s)
+[2019.05.29-02.08.58:287][635]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.08.58:287][635]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.05.29-02.08.58:287][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033307s)
+[2019.05.29-02.08.58:337][635]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.08.58:345][635]LogInit: FAudioDevice initialized.
+[2019.05.29-02.08.58:379][635]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.08.58:383][635]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.08.58
+[2019.05.29-02.08.58:384][635]LogWorld: Bringing up level for play took: 0.004219
+[2019.05.29-02.08.58:387][635]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.409
+[2019.05.29-02.08.58:387][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.09.04:005][286]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.09.04:507][346]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.09.05:008][405]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.09.05:509][465]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.09.06:014][525]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.09.06:399][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.09.06:446][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.09.08:832][845]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.09.09:371][888]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.09.52:993][268]Cmd: TRANSACTION UNDO
+[2019.05.29-02.09.52:993][268]LogEditorTransaction: Undo 위치 설정
+[2019.05.29-02.09.55:083][452]Cmd: TRANSACTION UNDO
+[2019.05.29-02.09.55:083][452]LogEditorTransaction: Undo 위치 설정
+[2019.05.29-02.09.56:436][574]Cmd: TRANSACTION UNDO
+[2019.05.29-02.09.56:436][574]LogEditorTransaction: Undo 컴포넌트에 클릭 (트리 뷰)
+[2019.05.29-02.09.56:901][612]Cmd: TRANSACTION UNDO
+[2019.05.29-02.09.56:901][612]LogEditorTransaction: Undo 위치 설정
+[2019.05.29-02.10.04:383][343]Cmd: TRANSACTION UNDO
+[2019.05.29-02.10.04:383][343]LogEditorTransaction: Undo 액터 이동
+[2019.05.29-02.10.13:201][187]Cmd: TRANSACTION UNDO
+[2019.05.29-02.10.13:201][187]LogEditorTransaction: Undo 컴포넌트 이동
+[2019.05.29-02.10.16:471][481]Cmd: TRANSACTION UNDO
+[2019.05.29-02.10.16:471][481]LogEditorTransaction: Undo 컴포넌트에 클릭 (트리 뷰)
+[2019.05.29-02.10.17:110][524]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.10.17:293][539]Cmd: TRANSACTION UNDO
+[2019.05.29-02.10.17:293][539]LogEditorTransaction: Undo 액터 클릭
+[2019.05.29-02.10.18:104][621]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.10.18:607][669]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.10.18:938][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.05.29-02.10.19:336][733]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.10.45:050][419]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.10.45:411][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.10.45:428][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.10.45:429][419]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:10:45)
+[2019.05.29-02.10.45:429][419]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.10.45:457][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028721s)
+[2019.05.29-02.10.45:458][419]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.10.45:458][419]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2019.05.29-02.10.45:459][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029914s)
+[2019.05.29-02.10.45:507][419]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.10.45:516][419]LogInit: FAudioDevice initialized.
+[2019.05.29-02.10.45:557][419]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.10.45:561][419]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.10.45
+[2019.05.29-02.10.45:562][419]LogWorld: Bringing up level for play took: 0.003844
+[2019.05.29-02.10.45:564][419]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.762
+[2019.05.29-02.10.45:564][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.10.48:242][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.10.48:273][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.10.54:342][435]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.11.40:079][388]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2019.05.29-02.11.40:079][388]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-02.11.49:494][405]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.12.28:997][855]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.12.29:134][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.12.29:149][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.12.29:149][855]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:12:29)
+[2019.05.29-02.12.29:149][855]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.12.29:182][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033369s)
+[2019.05.29-02.12.29:183][855]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.12.29:183][855]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.05.29-02.12.29:183][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034351s)
+[2019.05.29-02.12.29:229][855]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.12.29:238][855]LogInit: FAudioDevice initialized.
+[2019.05.29-02.12.29:273][855]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.12.29:276][855]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.12.29
+[2019.05.29-02.12.29:277][855]LogWorld: Bringing up level for play took: 0.003830
+[2019.05.29-02.12.29:279][855]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.481
+[2019.05.29-02.12.29:280][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.12.32:603][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.12.32:635][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.12.37:356][365]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2019.05.29-02.12.37:356][365]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-02.12.38:945][365]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2019.05.29-02.12.39:255][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.29-02.12.39:483][365]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.29-02.12.40:690][365]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.29-02.12.40:699][365]LogRenderer: Reallocating scene render targets to support 1144x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-02.12.40:699][365]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.29-02.13.55:946][542]LogSavePackage: Save=27786.51ms
+[2019.05.29-02.13.55:946][542]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_Auto2E5A3B9BF4423D08EF32C0284A76CECB7.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.05.29-02.13.56:295][542]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2019.05.29-02.13.56:342][542]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 48.107
+[2019.05.29-02.13.56:342][542]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 48.107
+[2019.05.29-02.13.56:400][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.05.29-02.13.56:450][542]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.05.29-02.13.56:450][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.05.29-02.14.23:383][542]LogSavePackage: Save=22382.58ms
+[2019.05.29-02.14.23:383][542]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonCharacter_Auto235DB615742E54F92F95611A9A3EEEBBE.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.05.29-02.14.23:410][542]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset
+[2019.05.29-02.14.23:410][542]LogFileHelpers: Auto-saving content packages took 27.067
+[2019.05.29-02.16.22:832][ 62]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.29-02.16.23:899][ 86]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Shoot
+[2019.05.29-02.16.23:899][ 86]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.05.29-02.16.23:899][ 86]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2019.05.29-02.16.23:899][ 86]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2019.05.29-02.16.23:911][ 87]LogTemp: BranchPath = 4105-10/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = 4105-10/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2019.05.29-02.16.23:950][ 91]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\s2014112564\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.29-02.16.59:413][175]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.19.59:691][268]LogSlate: Took 0.002162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.29-02.22.04:238][914]LogEditorTransaction: Undo 노드 이동
+[2019.05.29-02.23.13:556][163]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-02.24.29:095][451]LogSavePackage: Save=3572.32ms
+[2019.05.29-02.24.29:095][451]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_Auto363010968452DFC423329519ECEF7B71E.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.05.29-02.24.29:123][451]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2019.05.29-02.24.29:133][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 5.582
+[2019.05.29-02.24.29:133][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.582
+[2019.05.29-02.24.29:146][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.05.29-02.24.29:189][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.05.29-02.24.29:189][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.05.29-02.24.32:700][451]LogSavePackage: Save=3054.75ms
+[2019.05.29-02.24.32:700][451]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonCharacter_Auto382273EC4459352109DEE7689F44B822B.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2019.05.29-02.24.32:726][451]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset
+[2019.05.29-02.24.32:726][451]LogFileHelpers: Auto-saving content packages took 3.590
+[2019.05.29-02.25.12:838][163]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.32.41:907][471]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.32.46:993][751]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.32.47:086][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.32.47:087][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.32.47:087][751]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:32:47)
+[2019.05.29-02.32.47:087][751]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.32.47:123][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035865s)
+[2019.05.29-02.32.47:123][751]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.32.47:124][751]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2019.05.29-02.32.47:124][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037070s)
+[2019.05.29-02.32.47:173][751]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.32.47:182][751]LogInit: FAudioDevice initialized.
+[2019.05.29-02.32.47:213][751]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.32.47:216][751]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.32.47
+[2019.05.29-02.32.47:217][751]LogWorld: Bringing up level for play took: 0.003583
+[2019.05.29-02.32.47:219][751]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.475
+[2019.05.29-02.32.47:220][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.32.52:273][350]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.32.52:773][410]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.32.53:274][470]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.32.53:774][530]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.32.54:275][590]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.32.54:443][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.32.54:478][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.33.00:637][ 81]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.33.17:286][203]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.33.18:961][287]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.33.19:049][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.33.19:050][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.33.19:050][287]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:33:19)
+[2019.05.29-02.33.19:051][287]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.33.19:085][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034124s)
+[2019.05.29-02.33.19:086][287]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.33.19:086][287]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2019.05.29-02.33.19:086][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035459s)
+[2019.05.29-02.33.19:129][287]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.33.19:137][287]LogInit: FAudioDevice initialized.
+[2019.05.29-02.33.19:177][287]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.33.19:181][287]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.33.19
+[2019.05.29-02.33.19:181][287]LogWorld: Bringing up level for play took: 0.003466
+[2019.05.29-02.33.19:184][287]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.441
+[2019.05.29-02.33.19:184][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.33.19:598][332]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.19:715][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.20:203][404]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.20:319][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.20:519][442]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.20:629][455]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.23:116][752]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.23:233][766]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.24:900][965]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.25:275][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2019.05.29-02.33.25:632][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.33.25:665][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.33.28:050][318]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.34.54:268][408]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.35.55:996][481]Cmd: TRANSACTION UNDO
+[2019.05.29-02.35.55:996][481]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.05.29-02.35.57:364][568]Cmd: TRANSACTION UNDO
+[2019.05.29-02.35.57:364][568]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.05.29-02.37.05:577][441]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.37.10:153][701]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:174][701]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_21:PersistentLevel.FirstPersonCharacter_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:176][701]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_16:PersistentLevel.FirstPersonCharacter_C_23
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:266][701]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_21:PersistentLevel.FirstPersonCharacter_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:848][740]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:868][740]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_21:PersistentLevel.FirstPersonCharacter_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:870][740]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_16:PersistentLevel.FirstPersonCharacter_C_23
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.10:939][740]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_21:PersistentLevel.FirstPersonCharacter_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.12:018][818]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.12:020][818]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_21:PersistentLevel.FirstPersonCharacter_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.12:021][818]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_16:PersistentLevel.FirstPersonCharacter_C_23
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.12:085][818]LogScript: Warning: FP_Gun 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FirstPersonCharacter_C /Engine/Transient.World_21:PersistentLevel.FirstPersonCharacter_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.05.29-02.37.13:654][951]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.37.13:741][951]LogBlueprint: Error: [Compiler FirstPersonCharacter] 이 블루프린트(self)는 SceneComponent 가 아니라, ' 타겟 ' 에는 연결이 있어야 합니다.
+[2019.05.29-02.37.14:223][951]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [3386.44] FirstPersonCharacter 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 568 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.05.29-02.37.24:026][652]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.37.26:371][773]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.37.26:434][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.37.26:435][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.37.26:435][773]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:37:26)
+[2019.05.29-02.37.26:435][773]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.37.26:464][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029475s)
+[2019.05.29-02.37.26:465][773]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.37.26:465][773]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.05.29-02.37.26:465][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030500s)
+[2019.05.29-02.37.26:510][773]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.37.26:518][773]LogInit: FAudioDevice initialized.
+[2019.05.29-02.37.26:558][773]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.37.26:562][773]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.37.26
+[2019.05.29-02.37.26:563][773]LogWorld: Bringing up level for play took: 0.003779
+[2019.05.29-02.37.26:565][773]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.168
+[2019.05.29-02.37.26:565][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.37.29:997][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.37.30:032][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.37.31:340][327]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.37.31:970][377]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.37.59:318][922]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.05.29-02.37.59:753][961]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.05.29-02.38.00:223][ 11]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.05.29-02.38.08:591][885]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.38.08:652][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.08:653][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.38.08:653][885]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:38:08)
+[2019.05.29-02.38.08:653][885]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.38.08:679][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026594s)
+[2019.05.29-02.38.08:680][885]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.38.08:680][885]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2019.05.29-02.38.08:680][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027671s)
+[2019.05.29-02.38.08:727][885]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.38.08:735][885]LogInit: FAudioDevice initialized.
+[2019.05.29-02.38.08:765][885]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.38.08:769][885]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.38.08
+[2019.05.29-02.38.08:770][885]LogWorld: Bringing up level for play took: 0.003985
+[2019.05.29-02.38.08:772][885]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.042
+[2019.05.29-02.38.08:772][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.10:518][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.10:549][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.13:242][388]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.38.14:342][462]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.38.18:348][822]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.38.18:408][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.18:409][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.38.18:409][822]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:38:18)
+[2019.05.29-02.38.18:409][822]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.38.18:436][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026830s)
+[2019.05.29-02.38.18:436][822]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.38.18:437][822]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2019.05.29-02.38.18:437][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028059s)
+[2019.05.29-02.38.18:479][822]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.38.18:487][822]LogInit: FAudioDevice initialized.
+[2019.05.29-02.38.18:518][822]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.38.18:521][822]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.38.18
+[2019.05.29-02.38.18:522][822]LogWorld: Bringing up level for play took: 0.003863
+[2019.05.29-02.38.18:524][822]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.206
+[2019.05.29-02.38.18:524][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.25:587][663]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.38.26:088][723]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.38.26:589][783]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.38.28:090][963]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.28:594][ 23]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.29:094][ 83]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.29:596][143]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.30:098][203]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.30:598][263]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.31:103][323]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.31:603][383]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.32:105][443]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.32:607][503]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.33:108][563]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.33:608][623]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.34:110][683]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.34:610][743]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.35:111][803]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.35:612][863]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.36:114][923]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.36:614][983]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.37:115][ 43]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.37:618][103]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.38:119][163]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.38:621][223]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.39:122][283]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.39:624][343]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.40:125][403]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.40:627][463]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.41:129][523]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.41:630][583]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.38.41:889][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.41:920][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.38.44:166][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.29-02.38.44:609][907]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.40.45:185][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.29-02.40.47:270][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2019.05.29-02.40.47:343][148]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2019.05.29-02.40.47:809][148]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.29-02.41.27:779][609]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.41.31:267][797]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.41.31:410][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.41.31:411][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.41.31:412][797]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:41:31)
+[2019.05.29-02.41.31:412][797]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.41.31:443][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031076s)
+[2019.05.29-02.41.31:444][797]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.41.31:444][797]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2019.05.29-02.41.31:444][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032272s)
+[2019.05.29-02.41.31:467][797]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.41.31:476][797]LogInit: FAudioDevice initialized.
+[2019.05.29-02.41.31:507][797]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.41.31:510][797]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.41.31
+[2019.05.29-02.41.31:511][797]LogWorld: Bringing up level for play took: 0.003870
+[2019.05.29-02.41.31:513][797]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.783
+[2019.05.29-02.41.31:513][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.41.37:130][435]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.41.38:140][553]LogBlueprintUserMessages: [NewBlueprint_302] Searching
+[2019.05.29-02.41.38:648][613]LogBlueprintUserMessages: [NewBlueprint_302] Chasing
+[2019.05.29-02.41.38:665][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.41.38:703][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.41.45:514][111]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.42.00:182][840]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.42.03:281][ 27]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.42.03:437][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.03:439][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.42.03:439][ 27]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:42:03)
+[2019.05.29-02.42.03:439][ 27]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.42.03:465][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026350s)
+[2019.05.29-02.42.03:466][ 27]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.42.03:466][ 27]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2019.05.29-02.42.03:466][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027506s)
+[2019.05.29-02.42.03:514][ 27]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.42.03:521][ 27]LogInit: FAudioDevice initialized.
+[2019.05.29-02.42.03:552][ 27]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.42.03:555][ 27]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.42.03
+[2019.05.29-02.42.03:556][ 27]LogWorld: Bringing up level for play took: 0.003515
+[2019.05.29-02.42.03:558][ 27]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.826
+[2019.05.29-02.42.03:558][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.05:460][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.05:497][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.07:938][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2019.05.29-02.42.08:017][443]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2019.05.29-02.42.08:440][443]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.29-02.42.12:436][751]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.42.52:863][905]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.42.55:059][  7]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.42.55:159][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.55:160][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.42.55:160][  7]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:42:55)
+[2019.05.29-02.42.55:160][  7]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.42.55:187][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026792s)
+[2019.05.29-02.42.55:187][  7]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.42.55:187][  7]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2019.05.29-02.42.55:188][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027831s)
+[2019.05.29-02.42.55:234][  7]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.42.55:243][  7]LogInit: FAudioDevice initialized.
+[2019.05.29-02.42.55:272][  7]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.42.55:276][  7]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.42.55
+[2019.05.29-02.42.55:276][  7]LogWorld: Bringing up level for play took: 0.004013
+[2019.05.29-02.42.55:279][  7]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.544
+[2019.05.29-02.42.55:279][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.59:259][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.42.59:292][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.43.04:027][965]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.43.10:443][367]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.43.12:828][487]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.29-02.43.12:917][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.43.12:918][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-02.43.12:918][487]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 5. 29. 오후 8:43:12)
+[2019.05.29-02.43.12:918][487]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.29-02.43.12:939][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021041s)
+[2019.05.29-02.43.12:940][487]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-02.43.12:940][487]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.05.29-02.43.12:940][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021951s)
+[2019.05.29-02.43.12:988][487]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-02.43.12:995][487]LogInit: FAudioDevice initialized.
+[2019.05.29-02.43.13:025][487]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.29-02.43.13:028][487]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.05.29-11.43.13
+[2019.05.29-02.43.13:029][487]LogWorld: Bringing up level for play took: 0.003534
+[2019.05.29-02.43.13:031][487]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.295
+[2019.05.29-02.43.13:032][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.43.14:241][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.43.14:274][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.29-02.43.15:322][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2019.05.29-02.43.15:399][714]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2019.05.29-02.43.15:841][714]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.29-02.43.18:457][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.05.29-02.43.18:930][922]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint)
+[2019.05.29-02.43.34:233][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.29-02.43.34:780][747]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.44.16:902][517]LogSavePackage: Save=4108.70ms
+[2019.05.29-02.44.16:902][517]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_Auto44C7F2D634F5E4943A17CC9B1B7DB330E.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.05.29-02.44.16:933][517]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2019.05.29-02.44.16:947][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 6.042
+[2019.05.29-02.44.16:947][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.042
+[2019.05.29-02.44.16:985][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.05.29-02.44.16:985][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.05.29-02.44.20:099][517]LogSavePackage: Save=2689.03ms
+[2019.05.29-02.44.20:099][517]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonCharacter_Auto434477310415504D009510F8E0EFD2B02.tmp' to 'X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2019.05.29-02.44.20:154][517]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset
+[2019.05.29-02.44.20:154][517]LogFileHelpers: Auto-saving content packages took 3.203
+[2019.05.29-02.44.41:521][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.29-02.44.46:402][ 70]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.05.29-02.46.46:127][789]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.05.29-02.47.40:941][321]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.29-02.48.43:104][355]LogSavePackage: Save=2777.04ms
+[2019.05.29-02.48.43:104][355]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap4B52AB8842CF88B52A663081EFFB92F5.tmp' to 'X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.05.29-02.48.43:174][355]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.05.29-02.48.43:342][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.05.29-02.48.50:344][355]LogSavePackage: Save=4410.24ms
+[2019.05.29-02.48.50:344][355]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonExampleMap_BuiltData56E9F9994638BF21231CB289E01CF833.tmp' to 'X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.05.29-02.48.50:387][355]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2019.05.29-02.48.56:318][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.05.29-02.48.58:560][819]LogSavePackage: Save=1951.06ms
+[2019.05.29-02.48.58:560][819]LogSavePackage: Moving 'X:/GitHub/Assignments/Shoot/Saved/FirstPersonCharacter63DFB5D3441B738D6C0776A745A2B347.tmp' to 'X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.05.29-02.48.58:605][819]LogSavePackage: Display: Finished SavePackage X:/GitHub/Assignments/Shoot/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2019.05.29-02.48.59:255][820]Cmd: QUIT_EDITOR
+[2019.05.29-02.48.59:322][820]LogExit: Preparing to exit.
+[2019.05.29-02.48.59:598][820]LogExit: Editor shut down
+[2019.05.29-02.48.59:600][820]LogExit: Transaction tracking system shut down
+[2019.05.29-02.49.00:761][820]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.05.29-02.49.00:761][820]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.05.29-02.49.00:761][820]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.05.29-02.49.00:761][820]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.05.29-02.49.00:762][820]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.05.29-02.49.00:762][820]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.05.29-02.49.00:934][820]LogExit: Object subsystem successfully closed.
+[2019.05.29-02.49.00:956][820]LogD3D11RHI: Shutdown
+[2019.05.29-02.49.00:956][820]LogD3D11RHI: CleanupD3DDevice
+[2019.05.29-02.49.00:960][820]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.29-02.49.00:999][820]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (560)
+[2019.05.29-02.49.00:999][820]LogModuleManager: Shutting down and abandoning module SkeletonEditor (558)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module AnimationEditor (556)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (554)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2019.05.29-02.49.01:000][820]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2019.05.29-02.49.01:000][820]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2019.05.29-02.49.01:001][820]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2019.05.29-02.49.01:001][820]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2019.05.29-02.49.01:001][820]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2019.05.29-02.49.01:002][820]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2019.05.29-02.49.01:003][820]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2019.05.29-02.49.01:004][820]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2019.05.29-02.49.01:005][820]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2019.05.29-02.49.01:006][820]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2019.05.29-02.49.01:006][820]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2019.05.29-02.49.01:008][820]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2019.05.29-02.49.01:009][820]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2019.05.29-02.49.01:010][820]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2019.05.29-02.49.01:012][820]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2019.05.29-02.49.01:013][820]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2019.05.29-02.49.01:014][820]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2019.05.29-02.49.01:015][820]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2019.05.29-02.49.01:015][820]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2019.05.29-02.49.01:015][820]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2019.05.29-02.49.01:015][820]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2019.05.29-02.49.01:749][820]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2019.05.29-02.49.01:749][820]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2019.05.29-02.49.01:749][820]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2019.05.29-02.49.01:749][820]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2019.05.29-02.49.01:750][820]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2019.05.29-02.49.01:750][820]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2019.05.29-02.49.01:750][820]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2019.05.29-02.49.01:751][820]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2019.05.29-02.49.01:751][820]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2019.05.29-02.49.01:752][820]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2019.05.29-02.49.01:753][820]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2019.05.29-02.49.01:753][820]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2019.05.29-02.49.01:753][820]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2019.05.29-02.49.01:753][820]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2019.05.29-02.49.01:754][820]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2019.05.29-02.49.01:755][820]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2019.05.29-02.49.01:755][820]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2019.05.29-02.49.01:795][820]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2019.05.29-02.49.01:796][820]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2019.05.29-02.49.01:797][820]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2019.05.29-02.49.01:799][820]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2019.05.29-02.49.01:807][820]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2019.05.29-02.49.01:809][820]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2019.05.29-02.49.01:809][820]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2019.05.29-02.49.01:809][820]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2019.05.29-02.49.01:810][820]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2019.05.29-02.49.01:811][820]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2019.05.29-02.49.01:811][820]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2019.05.29-02.49.01:812][820]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2019.05.29-02.49.01:895][820]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2019.05.29-02.49.01:896][820]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2019.05.29-02.49.01:896][820]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2019.05.29-02.49.01:896][820]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2019.05.29-02.49.01:897][820]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2019.05.29-02.49.01:900][820]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2019.05.29-02.49.01:900][820]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2019.05.29-02.49.01:900][820]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2019.05.29-02.49.01:900][820]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2019.05.29-02.49.01:900][820]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2019.05.29-02.49.01:900][820]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2019.05.29-02.49.01:901][820]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2019.05.29-02.49.01:901][820]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2019.05.29-02.49.01:901][820]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2019.05.29-02.49.01:901][820]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2019.05.29-02.49.01:902][820]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2019.05.29-02.49.01:902][820]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2019.05.29-02.49.01:902][820]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2019.05.29-02.49.01:902][820]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2019.05.29-02.49.01:903][820]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2019.05.29-02.49.01:904][820]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2019.05.29-02.49.01:905][820]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2019.05.29-02.49.01:906][820]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2019.05.29-02.49.01:906][820]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2019.05.29-02.49.01:906][820]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2019.05.29-02.49.01:906][820]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2019.05.29-02.49.01:907][820]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2019.05.29-02.49.01:907][820]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2019.05.29-02.49.01:908][820]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2019.05.29-02.49.01:909][820]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2019.05.29-02.49.01:909][820]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2019.05.29-02.49.01:910][820]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2019.05.29-02.49.01:911][820]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2019.05.29-02.49.02:011][820]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2019.05.29-02.49.02:111][820]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2019.05.29-02.49.02:111][820]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2019.05.29-02.49.02:111][820]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2019.05.29-02.49.02:111][820]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2019.05.29-02.49.02:112][820]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2019.05.29-02.49.02:112][820]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2019.05.29-02.49.02:113][820]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.05.29-02.49.02:113][820]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.05.29-02.49.02:113][820]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.05.29-02.49.02:113][820]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2019.05.29-02.49.02:116][820]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2019.05.29-02.49.02:116][820]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.05.29-02.49.02:116][820]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.05.29-02.49.02:116][820]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.05.29-02.49.02:116][820]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.05.29-02.49.02:116][820]LogModuleManager: Shutting down and abandoning module Media (221)
+[2019.05.29-02.49.02:121][820]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2019.05.29-02.49.02:121][820]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2019.05.29-02.49.02:121][820]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2019.05.29-02.49.02:122][820]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2019.05.29-02.49.02:122][820]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2019.05.29-02.49.02:122][820]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2019.05.29-02.49.02:125][820]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2019.05.29-02.49.02:125][820]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2019.05.29-02.49.02:126][820]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2019.05.29-02.49.02:126][820]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2019.05.29-02.49.02:127][820]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2019.05.29-02.49.02:128][820]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2019.05.29-02.49.02:130][820]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2019.05.29-02.49.02:130][820]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2019.05.29-02.49.02:133][820]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2019.05.29-02.49.02:133][820]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module Core (172)
+[2019.05.29-02.49.02:135][820]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2019.05.29-02.49.02:136][820]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2019.05.29-02.49.02:136][820]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.05.29-02.49.02:136][820]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2019.05.29-02.49.02:137][820]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2019.05.29-02.49.02:137][820]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2019.05.29-02.49.02:137][820]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2019.05.29-02.49.02:138][820]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2019.05.29-02.49.02:138][820]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2019.05.29-02.49.02:138][820]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2019.05.29-02.49.02:139][820]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2019.05.29-02.49.02:143][820]LogDerivedDataCache: Shutdown
+[2019.05.29-02.49.02:143][820]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2019.05.29-02.49.02:143][820]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2019.05.29-02.49.02:144][820]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2019.05.29-02.49.02:144][820]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2019.05.29-02.49.02:145][820]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2019.05.29-02.49.02:145][820]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2019.05.29-02.49.02:146][820]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2019.05.29-02.49.02:146][820]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2019.05.29-02.49.02:146][820]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2019.05.29-02.49.02:146][820]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2019.05.29-02.49.02:147][820]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2019.05.29-02.49.02:148][820]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2019.05.29-02.49.02:148][820]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2019.05.29-02.49.02:148][820]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.05.29-02.49.02:148][820]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.05.29-02.49.02:148][820]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.05.29-02.49.02:149][820]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.05.29-02.49.02:150][820]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.05.29-02.49.02:150][820]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.29-02.49.02:150][820]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EDBC8F3-4C6E-D4D4-9F10-C9877FDAECDB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ebe505414a5c47950e9fcaaa80e166f9%7Ca40a954ccc294850bb283aab311680b8%7C9df597e0-0d0e-439b-a174-8306e3059e34&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.29-02.49.02:157][820]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.05.29-02.49.02:159][820]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.29-02.49.02:160][820]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.29-02.49.02:160][820]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.29-02.49.02:161][820]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.29-02.49.02:163][820]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.29-02.49.02:163][820]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.29-02.49.02:163][820]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.29-02.49.02:166][820]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.29-02.49.02:167][820]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.29-02.49.02:167][820]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.29-02.49.02:167][820]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.29-02.49.02:167][820]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.29-02.49.02:168][820]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.29-02.49.02:168][820]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.29-02.49.02:168][820]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.29-02.49.02:168][820]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.29-02.49.02:168][820]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.29-02.49.02:169][820]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.29-02.49.02:172][820]LogExit: Exiting.
+[2019.05.29-02.49.02:234][820]Log file closed, 05/29/19 11:49:02
